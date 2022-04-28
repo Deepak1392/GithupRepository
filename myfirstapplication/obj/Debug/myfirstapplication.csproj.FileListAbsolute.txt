@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\myfirstapplication\myfirstapplication\bin\Debug\myfirstapplication.exe.config
+C:\Users\Lenovo\source\repos\myfirstapplication\myfirstapplication\bin\Debug\myfirstapplication.exe
+C:\Users\Lenovo\source\repos\myfirstapplication\myfirstapplication\bin\Debug\myfirstapplication.pdb
+C:\Users\Lenovo\source\repos\myfirstapplication\myfirstapplication\obj\Debug\myfirstapplication.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\myfirstapplication\myfirstapplication\obj\Debug\myfirstapplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\myfirstapplication\myfirstapplication\obj\Debug\myfirstapplication.exe
+C:\Users\Lenovo\source\repos\myfirstapplication\myfirstapplication\obj\Debug\myfirstapplication.pdb
